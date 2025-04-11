@@ -1,0 +1,3 @@
+[submodule "src/osdag/data/ResourceFiles/osdag-latex-env"]
+	path = src/osdag/data/ResourceFiles/osdag-latex-env
+	url = https://github.com/stevesojan/tex-env-submodule.git
